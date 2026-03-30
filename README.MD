@@ -115,12 +115,6 @@ pip install -r requirements.txt
 - matplotlib
 - scikit-learn
 - xgboost
-```
-
----
-
-Agora cria o `requirements.txt` — cola isso num arquivo novo:
-```
 pandas
 numpy
 matplotlib
